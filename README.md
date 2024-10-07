@@ -34,7 +34,7 @@ SET i.spec.ingressClassName="inactive";
 ## How?
 
 Cyphernetes is a [Cypher](https://neo4j.com/developer/cypher/)-inspired query language for Kubernetes.
-It is a mixture of ASCII-art, SQL and JSON and it lets us express Kubernetes operations in an efficeint way that is also fun and creative.
+It is a mixture of ASCII-art, SQL and JSON and it lets us express Kubernetes operations in an efficient way that is also fun and creative.
 
 There are multiple ways to run Cyphernetes queries:
 1. Using the interactive shell by running `cyphernetes shell` in your terminal
